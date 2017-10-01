@@ -7,6 +7,7 @@
 * É uma linguagem puramente `funcional`;
 * Em linguagens puramente funcionais variáveis não mudam de valor;
 * Em linguagens puramente funcionais funções não tem efeitos colaterais;
+* A única coisa que podemos fazer com uma função é calcular algo e devolvê-lo como um resultado. 
 * Haskell é estaticamente tipado;
 * Ele faz inferência de tipos. Ou seja, Não é necessário ficar colocando o tipo todo hora;
 * Haskell normalmente tem a extensão `.hs`;
