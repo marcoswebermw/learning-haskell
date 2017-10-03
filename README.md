@@ -21,6 +21,6 @@ Ou baixe uma plataforma mais completa para desenvolvimento em Haskell: https://w
 ### Testando
 
 * Para testar rapidamente use o modo interativo do Haskell digitando: **ghci**.
-* Carregue um script no `ghci` com: `: l nome_do_script`. E atualize-o com `: l nome_do_script` ou `: r`.
+* Carregue um script no `ghci` com: **`: l nome_do_script`**. E atualize-o com **`: l nome_do_script`** ou **`: r`**.
 
 
