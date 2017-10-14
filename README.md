@@ -24,8 +24,8 @@
 
 * Carregue um script no `ghci` com:  
     
-  **`: l nome_do_script`**.   
+  **`:l nome_do_script`**.   
     
-  E atualize-o com **`: l nome_do_script`**  ou **`: r`**.
+  E atualize-o com **`:l nome_do_script`**  ou **`:r`**.
 
 
