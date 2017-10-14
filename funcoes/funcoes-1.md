@@ -7,7 +7,7 @@
 `div 10 2`  -- Resultado é 5.  
   
   
-## Funções podem ser:  
+### Funções podem ser:  
 **Prefixo - Função à esquerda e depois seus parâmetros:**  
   
 `succ 10`   
@@ -20,7 +20,7 @@
 8 `div` 2  -- Resultado é 4.   
   
    
-## Funções sempre tem maior precedência   
+### Funções sempre tem maior precedência   
   
 **Sucessor de um número:**   
    
